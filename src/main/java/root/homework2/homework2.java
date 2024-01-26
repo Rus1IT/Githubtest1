@@ -6,6 +6,6 @@ public class homework2 {
     }
 
     private static void showWord(){
-        System.out.println("Второй домашний работа!");
+        System.out.println("Second Home Work!");
     }
 }
